@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="HardProblemSolution.aspx.cs" Inherits="Final_Project_Group13.HardProblemSolution" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="HardProblemSolution.aspx.cs" Inherits="shawdp.HardProblemSolution" %>
 <!--
 # Name: Dobry Shaw
 # email: shawdp@mail.uc.edu
