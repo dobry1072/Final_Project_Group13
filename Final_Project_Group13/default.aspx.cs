@@ -25,11 +25,11 @@ namespace Final_Project_Group13
         }
         protected void lblEasyProblemSolution_Click(object sender, EventArgs e)
         {
-            
+            Response.Redirect("EasyProblemSolution.aspx");
         }
         protected void lblMediumProblemSolution_Click(object sender, EventArgs e)
         {
-            
+            Response.Redirect("MediumProblemSolution.aspx");
         }
         protected void lblHardProblemSolution_Click(object sender, EventArgs e)
         {
