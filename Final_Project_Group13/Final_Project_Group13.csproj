@@ -67,6 +67,7 @@
     <Content Include="default.aspx" />
     <Content Include="EasyProblemSolution.aspx" />
     <Content Include="HardProblemSolution.aspx" />
+    <Content Include="MediumProblemSolution.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -90,6 +91,13 @@
     </Compile>
     <Compile Include="HardProblemSolution.aspx.designer.cs">
       <DependentUpon>HardProblemSolution.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MediumProblemSolution.aspx.cs">
+      <DependentUpon>MediumProblemSolution.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MediumProblemSolution.aspx.designer.cs">
+      <DependentUpon>MediumProblemSolution.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
