@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="shawdp.test" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="shawdp.Test" %>
 <!--
 # Name: Dobry Shaw
 # email: shawdp@mail.uc.edu

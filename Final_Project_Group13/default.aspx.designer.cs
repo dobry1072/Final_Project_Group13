@@ -11,7 +11,7 @@ namespace shawdp
 {
 
 
-    public partial class test
+    public partial class Test
     {
 
         /// <summary>
